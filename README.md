@@ -4,7 +4,7 @@ Hi 👋 My name is ASEStefan
 Programmer. Math Nerd Guy. Developer & Founder of many things.
 --------------------------------------------------------------
 
-Hey there! I am ASEStefan, founder and owner of Team Abyssal, a minecraft modding team that made some relatively known mods, one of those being "Dawn of the Flood", which is an exclusive minecraft mod based on the flood from Halo. With that being said, I also code stuff that is unrelated to Minecraft. For example, I coded the bot from our discord server, Cortana! Even though that is still work in progress, it's a great start for something bigger! I, as I specified in the title as well, like different math topics, like the "linear" and "catmullrom" interpolations which define animations, since yes I am kind of an animator too! I would love to travel to USA and Japan someday, and I just love Angel Beats and Code Geass! - ASEStefan
+Hey there! I am ASEStefan, founder and owner of Team Abyssal, a minecraft modding team that made some relatively known mods, one of those being "Dawn of the Flood", which is an exclusive minecraft mod based on the flood from Halo. With that being said, I also code stuff that is unrelated to Minecraft. For example, I coded a discord bot too! Even though that is still work in progress, it's a great start for something bigger! I, as I specified in the title as well, like different math topics, like the "linear" and "catmullrom" interpolations which define animations, since yes I am kind of an animator too! I would love to travel to USA and Japan someday, and I just love Angel Beats and Code Geass! - ASEStefan
 
 * 🌍  I'm based in Europe
 * 🖥️  See my portfolio at [Curseforge.com](http://www.curseforge.com/members/asestefan/projects)
